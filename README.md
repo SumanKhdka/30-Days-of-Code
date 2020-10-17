@@ -1,4 +1,4 @@
-30 Days of Code
+30 Days of Code in #Python
 
 Solutions for 30 days of code by HackerRank in Python.
 
